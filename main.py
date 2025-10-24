@@ -797,6 +797,6 @@ async def main():
 
 if __name__ == "__main__":
 
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = "sk-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"
 
     asyncio.run(main())
