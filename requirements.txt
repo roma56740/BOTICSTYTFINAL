@@ -1,0 +1,5 @@
+aiogram>=3.7,<4.0
+httpx[http2]>=0.27.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+reportlab>=4.2.0
